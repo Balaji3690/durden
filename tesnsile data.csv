@@ -1,4 +1,4 @@
-﻿INFILL DENSITY ,SPEED ,LAYER THICKNESS,,LOAD ,YIEL ST ,TENS ST,,
+﻿Infill,speed,Layerthickness,,load,yield,tensile,,
 60,80,0.2,,53.14,1.84,8.69,,
 40,80,0.2,,41.07,2.65,6.71,,
 20,80,0.2,,32.82,2.18,5.36,,
